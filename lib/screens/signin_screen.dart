@@ -8,7 +8,9 @@ class SigninScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CustomBackground(
-      child: Text("SIGN IN SCREEN"),
+      child: Column(
+        children: [],
+      ),
     );
   }
 }
